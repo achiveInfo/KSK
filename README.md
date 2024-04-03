@@ -1,7 +1,13 @@
 # KSK
 Details about project
 
-#Software Installation
+## Main Installing Steps 
+1)  install.bat file run as administrator in cmd.
+2)  pull.bat file run as administrator in cmd.
+3)  start.bat file run as administrator in cmd.
+
+
+## Software Installation
 
 A) Install Batch File (env setup for project) :
   1) Enable execution of PowerShell scripts
