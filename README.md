@@ -32,7 +32,8 @@
 4.Run install-step-4.bat file (Run as Administrator)
 
 
-ERROR LIST
+##ERROR LIST
+
 1.Virtulization ERROR for HP
 Solution : Restart PC press Esc or F10 Key for boot options after got o 
            Advanced Options->System Options->checkmark Virtulization 
