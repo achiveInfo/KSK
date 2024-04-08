@@ -39,7 +39,7 @@ Solution : Restart PC press Esc or F10 Key for boot options after got o
            Advanced Options->System Options->checkmark Virtulization 
            after press esc and save changes.
 
-           screen shots:
+           screen shots :
 
 
 
